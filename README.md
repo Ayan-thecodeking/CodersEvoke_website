@@ -9,7 +9,7 @@ We have a wide variety of topics however we’re always listening to suggestions
 And here , we came up with an idea of developing a website for the community as an open-source project so that help others to start with open source .
 
 
-REDESIGNING of our website is on ....DEsigns are already added in issues sections just refer that and complete the task ....make it full responsive for every view
+REDESIGNING of our website is on ....DEsigns are already added in issues sections just refer that and complete the task ....make it full responsive .
 
 <h3 align="center">
     <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
